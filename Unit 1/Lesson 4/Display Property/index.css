@@ -1,0 +1,55 @@
+body * {
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+main {
+	font-size: 0;
+}
+
+.box-parent {
+	margin-top: 90px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+}
+
+.box {
+	border: 1px solid black;
+	display: inline-block;
+}
+
+.green {
+	background-color: green;
+	width: 50%;
+	height: 200px;
+}
+
+.blue {
+	background-color: blue;
+	width: 50%;
+	height: 200px;
+}
+
+.grey {
+	background-color: grey;
+	width: 33.33%;
+	height: 300px;
+}
+
+
+.black {
+	background-color: black;
+	width: 33.33%;
+	height: 300px;
+}
+
+.orange {
+	background-color: orange;
+	width: 33.33%;
+	height: 300px;
+}
