@@ -1,6 +1,5 @@
 function shouter(whatToShout) {
-  const shoutString = whatToShout.toUpperCase();
-  return `${shoutString}!!!`;
+  return `${whatToShout.toUpperCase()}!!!`;
   // your code here
 }
 
