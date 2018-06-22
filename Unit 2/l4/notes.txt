@@ -1,0 +1,6 @@
+.pop() remove the final item from array
+.shift() removes the first item from array
+.slice(begin,end) creates a new array from begin-end
+.sort() sorts list alphabetically 
+** ask about sort compare functions **
+.map() 
